@@ -1,0 +1,26 @@
+    #canvas {
+        position: fixed;
+        margin-left: 20.5%;
+        margin-top: 2%;
+    }
+    
+    .button {
+        display: inline-block;
+        margin: 45px 19px 0 0;
+        padding: 8px 10px;
+        font-size: 14px;
+        font-family: "Bitter", serif;
+        line-height: 1.0;
+        box-shadow: none;
+        border-radius: 0;
+        background-color:#8e24aa;
+        color:#fff;
+        border:6px #4a148c;
+    }
+    .button:hover {
+        outline: none;
+        background-color:#4a148c;
+    }
+    #btn{
+        margin-left:68%;
+    }
